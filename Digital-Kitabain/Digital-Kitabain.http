@@ -1,0 +1,6 @@
+@Digital_Kitabain_HostAddress = http://localhost:5031
+
+GET {{Digital_Kitabain_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
